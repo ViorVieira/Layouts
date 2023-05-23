@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.topo{
+    background-color: rgb(24, 20, 20);
+    align-items: center;
+    text-align: center;
+    height: 5vh;
+}
+
+.link{
+    color: rgb(184, 195, 204);
+}
+
+
+.menuD{
+    background-color: rgb(59, 46, 46);
+    width: 10vw;
+    height: 90vh;
+    float: right;
+
+}
+
+.base{
+    background-color: rgb(24, 20, 20);
+    align-items: center;
+    text-align: center;
+    height: 5vh;
+}
+
+.sec{
+    background-color:  rgb(100, 80, 80) ;
+    height: 90vh;
+}
