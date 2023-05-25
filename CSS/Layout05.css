@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.topo{
+    background-color: rgb(24, 20, 20);
+    align-items: center;
+    text-align: center;
+    height: 5vh;
+}
+
+.link{
+    color: rgb(184, 195, 204);
+}
+
+
+.menuE{
+    background-color: rgb(59, 46, 46);
+    width: 10vw;
+    height: 90vh;
+    float: left;
+
+}
+
+.base{
+    background-color: rgb(24, 20, 20);
+    align-items: center;
+    text-align: center;
+    height: 5vh;
+}
+
+.sec{
+    background-color:  rgb(100, 80, 80) ;
+    height: 30vh;
+}
+
+.sec2{
+    background-color:  rgb(107, 93, 93) ;
+    height: 30vh;
+}
+
+.sec3{
+    background-color:  rgb(133, 116, 116) ;
+    height: 30vh;
+}
